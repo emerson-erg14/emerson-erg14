@@ -10,7 +10,8 @@ Graduated in Computer Technician and studying Analysis in Systems Development.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emerson-erg14&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-erg14&hide_progress=true&theme=gruvbox"/>
+
+
 </div>
 
 ### 🪐 Let`s get connected
