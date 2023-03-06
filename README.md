@@ -4,8 +4,6 @@ I am Emerson Rodrigues
 
 Automation Engineer
 
-Formado em Técnico em Informatica e Cursando Analise em Desenvolvimento de Sistemas.
-
 Graduated in Computer Technician and studying Analysis in Systems Development.
 
 <div>
